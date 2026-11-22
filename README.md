@@ -7,4 +7,4 @@
 ## Cómo consultar los anexos:
 1. Haz clic en el archivo PDF que quieras consultar.
 2. Puedes visualizarlo directamente desde GitHub.
-3. Para descargarlo, pulsa el botón **Download** ([Descargar anexos en PDF](./Anexos%20TFM.pdf?raw=1)), situado en la parte superior derecha del archivo.
+3. Para descargarlo, pulsa el botón **Download** ([Descargar anexos en PDF](https://github.com/uxuearroniz/TFM-UNIE/raw/refs/heads/main/Anexos%20TFM.pdf)), situado en la parte superior derecha del archivo.
