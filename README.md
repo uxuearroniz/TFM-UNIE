@@ -8,7 +8,7 @@ Este repositorio contiene materiales complementarios del Trabajo Fin de Máster 
 
 **Anexo III:** instrumentos de evaluación y materiales de apoyo utilizados en ambas situaciones de aprendizaje.
 
-# Cómo consultar los anexos:
+## Cómo consultar los anexos:
 
 1- Haz clic en el archivo PDF que quieras consultar.
 
@@ -16,4 +16,4 @@ Este repositorio contiene materiales complementarios del Trabajo Fin de Máster 
 
 3- Para descargarlo, pulsa el botón Download, situado en la parte superior derecha del archivo.
 
-# Acceso a los anexos:
+## Acceso a los anexos:
